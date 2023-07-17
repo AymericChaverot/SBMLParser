@@ -1,6 +1,6 @@
 # SBMLParser
 
-The SBML Parser is a parser for SBML files
+The SBML Parser is a parser for SBML files written in **C**
 
 It has various options available to change the output, ranging from the information extraction to the JSON conversion
 
